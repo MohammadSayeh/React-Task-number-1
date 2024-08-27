@@ -8,8 +8,8 @@ export default function App(){
     <div>
       <Navbar />
       <Employees />
-      <Footer/>
       <Clients/>
+      <Footer/>
     </div>
     
   )
